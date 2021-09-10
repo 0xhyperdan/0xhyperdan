@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm xiaodan. 👋
 
 <!--
 **C-isCoder/C-isCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🛵 I'm currently working on SDQL tech.👩‍💻
+![Github stats](https://github-readme-stats.vercel.app/api?username=C-isCoder&show_icons=true)
