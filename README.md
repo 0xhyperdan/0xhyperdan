@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->	
 - 🛵 I'm currently working on QLine tech.👩‍💻	
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=xiiaodan&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=xiiaodan&show_icons=true&theme=dark)
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=xiiaodan&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
