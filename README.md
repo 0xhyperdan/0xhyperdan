@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...	
 - ⚡ Fun fact: ...	
 -->	
-- 🛵 I'm currently working on QLine tech.👩‍💻	
+- 🛵 I'm currently working on MarsCrypto tech.👩‍💻	
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=0xhyperdan&show_icons=true&theme=dark)
 
