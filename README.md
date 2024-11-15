@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->	
 - 🛵 I'm currently working on MarsCrypto tech.👩‍💻	
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xhyperdan&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xhyperdan&theme=dark&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=0xhyperdan&show_icons=true&theme=dark)
