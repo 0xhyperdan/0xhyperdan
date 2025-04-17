@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=0xhyperdan&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xhyperdan&layout=compact)
-![WakaTime](https://wakatime.com/share/@340d1577-241b-45a2-82e6-fe8be230dc0c/313996c5-c767-4a0d-a42a-956f8e40615b.svg)
+![WakaTime](https://wakatime.com/share/@340d1577-241b-45a2-82e6-fe8be230dc0c/87b5d3c4-cf37-4765-a654-400dd64bde30.svg)
