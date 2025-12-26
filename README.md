@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...	
 -->	
 - 🛵 I'm currently working on MarsCrypto tech.👩‍💻	
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=0xhyperdan&show_icons=true)
 ![WakaTime](https://wakatime.com/share/@340d1577-241b-45a2-82e6-fe8be230dc0c/87b5d3c4-cf37-4765-a654-400dd64bde30.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xhyperdan&layout=compact)
